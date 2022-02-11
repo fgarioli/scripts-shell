@@ -1,4 +1,9 @@
 #!/bin/bash
+echo "Data e Horário:"
 date
-df -h
+echo
+echo "Uso do disco:"
+df
+echo
+echo "Usuários conectados:"
 w
