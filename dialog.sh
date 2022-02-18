@@ -1,0 +1,1 @@
+dialog --infobox 'minha primeira tela' 0 0
